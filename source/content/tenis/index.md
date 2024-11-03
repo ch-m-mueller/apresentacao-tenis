@@ -9,6 +9,7 @@
 ./inicio
 ./requisitos
 ./tipos-de-campo
+./golpes
 
 ```
 
@@ -24,6 +25,9 @@
 ```
 
 ```{include} ./tipos-de-campo.md
+```
+
+```{include} ./golpes.md
 ```
 
 {% endif %}
