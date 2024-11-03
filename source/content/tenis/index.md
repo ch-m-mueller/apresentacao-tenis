@@ -7,6 +7,7 @@
 :caption: Apresentação Tênis
 
 ./requisitos
+./tipos-de-campo
 
 ```
 
@@ -16,6 +17,9 @@
 <!-- BUILDING THE PAGES -->
 
 ```{include} ./requisitos.md
+```
+
+```{include} ./tipos-de-campo.md
 ```
 
 {% endif %}
