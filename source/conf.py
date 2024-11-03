@@ -24,7 +24,7 @@ author = 'Christian M. Müller'
 # -- optionally adapt copyright
 copyright = f'{date.today().year}, {repository_owner}'
 # -- should the duscussion link be shown?
-show_discussion_link = True
+show_discussion_link = False
 # ----------------------------------------------------------------------------
 # ----------------------------------------------------------------------------
 
@@ -89,10 +89,10 @@ html_theme_options = {
     "repository_url": repository_url,
     "repository_branch": repository_branch,
     "path_to_docs": "source/",
-    "use_edit_page_button": True,
-    "use_repository_button": True,
+    "use_edit_page_button": False,
+    "use_repository_button": False,
     "toc_title": "Content",
-    "use_sidenotes": True,
+    "use_sidenotes": False,
     "logo": {
         "text": course_logo.get('alt-text', 'logo'),
         "image_light": course_logo.get('image_light', None),
@@ -101,8 +101,8 @@ html_theme_options = {
         },
     "show_toc_level": 2,  # Show the table of contents up to level 2
     "navigation_with_keys": True,  # Enable keyboard navigation
-    "collapse_navigation": False,  # Do not collapse the navigation
-    # "sidebar_width": "250px",  # Set the width of the sidebar
+    "collapse_navigation": True,  # Do not collapse the navigation
+    # "sidebar_width": "50px",  # Set the width of the sidebar
     "icon_links": icon_links_pages,
 }
 
