@@ -1,5 +1,3 @@
-# Apresentação Tênis
-
 {% if build == "slides" %}
 
 <!-- BUILDING THE SLIDES -->
