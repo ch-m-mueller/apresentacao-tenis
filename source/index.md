@@ -5,7 +5,7 @@
 ```
 ```{toctree}
 :maxdepth: 2
-:caption: Course Template Docs
+:caption: Apresentação Tênis
 {% if build == "slides" %}:numbered:{% endif %}
 
 content/index
