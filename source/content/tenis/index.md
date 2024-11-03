@@ -10,6 +10,7 @@
 ./requisitos
 ./tipos-de-campo
 ./golpes
+./raquete
 
 ```
 
@@ -29,5 +30,9 @@
 
 ```{include} ./golpes.md
 ```
+
+```{include} ./raquete.md
+```
+
 
 {% endif %}
