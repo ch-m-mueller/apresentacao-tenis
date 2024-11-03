@@ -6,6 +6,7 @@
 :maxdepth: 2
 :caption: Apresentação Tênis
 
+./inicio
 ./requisitos
 ./tipos-de-campo
 
@@ -15,6 +16,9 @@
 
 
 <!-- BUILDING THE PAGES -->
+
+```{include} ./inicio.md
+```
 
 ```{include} ./requisitos.md
 ```
