@@ -11,3 +11,7 @@ aside.sidebar > ul {
 .admonition-title {
   padding-left: 2em !important;
 }
+
+.bd-article-container {
+  max-width: unset !important;
+}
