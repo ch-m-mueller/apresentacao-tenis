@@ -14,11 +14,11 @@ course_logo = {
     "image_light": "https://lisbonlanguagecafe.pt/wp-content/uploads/elementor/thumbs/LLC-orange-1-e1659130991210-pshwi03avgmgw1aiqky6oyt63hv6qkfygruqb3r4f6.png",
     "image_dark": "https://lisbonlanguagecafe.pt/wp-content/uploads/elementor/thumbs/LLC-orange-1-e1659130991210-pshwi03avgmgw1aiqky6oyt63hv6qkfygruqb3r4f6.png",
     "link": f"{page_url}/index.html",
-    "alt-text": "Apresentacao Tênis",
+    "alt-text": "Apresentacao Ténis",
     "favicon": "https://lisbonlanguagecafe.pt/wp-content/uploads/elementor/thumbs/LLC-orange-1-e1659130991210-pshwi03avgmgw1aiqky6oyt63hv6qkfygruqb3r4f6.png",
 }
 # -- name your project
-project = 'Apresentacao Tênis'
+project = 'Apresentacao Ténis'
 # -- provide authorship info
 author = 'Christian M. Müller'
 # -- optionally adapt copyright
