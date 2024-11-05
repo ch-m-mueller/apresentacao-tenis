@@ -13,10 +13,19 @@
   <a target="_blank" href="https://raw.githubusercontent.com/ch-m-mueller/apresentacao-tenis/refs/heads/main/source/content/tenis/img/req-campo.jpg">
     <img height="200px" src="https://raw.githubusercontent.com/ch-m-mueller/apresentacao-tenis/refs/heads/main/source/content/tenis/img/req-campo.jpg" alt="" hspace="5px" />
   </a>
+
+  <a target="_blank" href="https://raw.githubusercontent.com/ch-m-mueller/apresentacao-tenis/refs/heads/main/source/content/tenis/img/req-bolas.png">
+    <img height="200px" src="https://raw.githubusercontent.com/ch-m-mueller/apresentacao-tenis/refs/heads/main/source/content/tenis/img/req-bolas.png" alt="" hspace="5px" />
+  </a>
   
-  <img height="200px" src="https://raw.githubusercontent.com/ch-m-mueller/apresentacao-tenis/refs/heads/main/source/content/tenis/img/req-bolas.png" alt="" hspace="5px" />
-  <img height="200px" src="https://raw.githubusercontent.com/ch-m-mueller/apresentacao-tenis/refs/heads/main/source/content/tenis/img/req-raquete.png" alt="" hspace="5px" />
-  <img height="200px" src="https://raw.githubusercontent.com/ch-m-mueller/apresentacao-tenis/refs/heads/main/source/content/tenis/img/req-talento.png" alt="" hspace="5px" />
+  <a target="_blank" href="https://raw.githubusercontent.com/ch-m-mueller/apresentacao-tenis/refs/heads/main/source/content/tenis/img/req-raquete.png">
+    <img height="200px" src="https://raw.githubusercontent.com/ch-m-mueller/apresentacao-tenis/refs/heads/main/source/content/tenis/img/req-raquete.png" alt="" hspace="5px" />
+  </a>
+
+   <a target="_blank" href="https://raw.githubusercontent.com/ch-m-mueller/apresentacao-tenis/refs/heads/main/source/content/tenis/img/req-talento.png">
+     <img height="200px" src="https://raw.githubusercontent.com/ch-m-mueller/apresentacao-tenis/refs/heads/main/source/content/tenis/img/req-talento.png" alt="" hspace="5px" />
+   </a>
+
 </p>
 
 
