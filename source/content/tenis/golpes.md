@@ -1,4 +1,4 @@
-# Golpes principais do Tênis  
+# Golpes principais do Ténis  
   
  - O saque ( para iniciar o jogo )
  - Forehand ( com a mão dominante do jogador )
