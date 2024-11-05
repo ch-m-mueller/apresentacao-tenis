@@ -4,7 +4,7 @@
 
 ```{toctree}
 :maxdepth: 2
-:caption: Apresentação Tênis
+:caption: Apresentação Ténis
 
 ./inicio
 ./requisitos
